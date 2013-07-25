@@ -24,3 +24,5 @@ Alfred workflow for changing resolutions on primary monitor
 
 ## Thanks
 [cscreen](http://www.pyehouse.com/cscreen/) by Lynn Pye
+
+![badge](https://d2weczhvl823v0.cloudfront.net/taylorludwig/Resolutions-Alfred/trend.png "badge")
